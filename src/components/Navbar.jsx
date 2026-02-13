@@ -39,6 +39,11 @@ const Navbar = () => {
               repeat: Infinity,
               repeatDelay: 1.5,
             }}
+            style={{
+              display: "flex",
+              justifyContent: "center",
+              alignItems: "center",
+            }}
           >
             <Image src={"/images/chip.png"} alt="logo" width={40} height={40} />
           </motion.div>
