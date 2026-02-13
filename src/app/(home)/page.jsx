@@ -82,13 +82,13 @@ export default function Home() {
           >
             <Typography variant="body1" color="white">
               <Link
-                href={"#"}
+                href="mailto:info@embedo.ai"
                 style={{
                   textDecoration: "none",
                   color: "white",
                 }}
               >
-                www.embedo.ai
+                info@embedo.ai
               </Link>
             </Typography>
           </motion.div>
